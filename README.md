@@ -235,4 +235,4 @@ This repository serves as the official landing page for Matroska Splitter. The s
 **Get the most recent version of Matroska Splitter today!**
 
 ---
-**Last updated:** 2026-09-26 01:08:05 UTC
+**Last updated:** 2026-09-26 06:50:54 UTC
